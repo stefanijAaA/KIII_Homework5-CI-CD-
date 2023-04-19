@@ -26,4 +26,4 @@ jobs:
         uses: docker/build-push-action@v4
         with:
           push: true
-          tags: stefanijaduracoska/kiii_homework5_cicd:latest
+          tags: stefanijaduracoska/kiii_cicd:latest
